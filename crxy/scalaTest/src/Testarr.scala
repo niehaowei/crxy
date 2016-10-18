@@ -17,7 +17,7 @@ println("niehw----")
 
 
 }
-
+//
 object Testarr {
   def main(args: Array[String]) {
     /* val arr1 = new Array[Int](3)
