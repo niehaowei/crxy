@@ -51,7 +51,17 @@ object Testarr {
     val t1 = (1, 2, 3, 4, 5)
     //元组转化为list
     val list = t1.productIterator.toList
+//
 
+
+
+来
+
+
+
+
+
+    //djddj
     def func(a:Int ,b:Int) ={
       (a,b)
     }
