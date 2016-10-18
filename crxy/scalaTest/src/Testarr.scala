@@ -10,7 +10,7 @@ println("niehw----")
   //对应的set方法的名称是 age_= ,对应的get方法名称是age
   var age:String="28";
   @BeanProperty val name="niehw";
-
+//lllll
   private val address:String="beijing"
 
 
