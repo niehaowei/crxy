@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crxy.iml" filepath="$PROJECT_DIR$/crxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka_hbase/kafka_hbase.iml" filepath="$PROJECT_DIR$/kafka_hbase/kafka_hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalaTest/scalaTest.iml" filepath="$PROJECT_DIR$/scalaTest/scalaTest.iml" />
+    </modules>
+  </component>
+</project>
