@@ -1,3 +1,5 @@
+package crxytest
+
 
 import scala.beans.BeanProperty
 import scala.collection.mutable.ArrayBuffer
