@@ -23,5 +23,6 @@ object TestApply {
     val o = new applyclass
 //    o.apply("liudehua")
     o.apply("zhangxueyou")
+    o("zhangxueyou")
   }
 }

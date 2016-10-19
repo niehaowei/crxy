@@ -15,7 +15,8 @@ object TestFunction3 {
 
     //    println((1 to 10).reduceLeft(_ - _))  //0 + 1 1 + 2   3 + 3   6 + 4  ...
     //    println((1 to 10).reduceRight(_ - _))  //10 + 9 19 + 8 ...
-
+	  (1 to 10).reduce(_ + _)
+	  
     //去重
     //    val arr = Array("a","b","c","a","c")
     //    println(arr.distinct.mkString(","))
@@ -42,10 +43,10 @@ object TestFunction3 {
 //    println(map1)
 //    println(map2)
     
-//    map.toList.sortBy(_._2) foreach {
-//      x =>
-//        println(x._1 + "->" + x._2)
-//    }
+    map.toList.sortBy(_._2) foreach {
+      case (k,v) =>
+        println(k + "->" + v)
+    }
     
     val s = "superman"
 //    println(s.substring(3,9))

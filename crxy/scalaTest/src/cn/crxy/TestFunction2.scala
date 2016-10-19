@@ -8,7 +8,7 @@ object TestFunction2 {
 	//在scala,函数称之为一等公民，地位高
     //普通的有返回值的函数的定义
     def func1(a:Int,b:Int) = {
-      a + b 
+      a + b
     }
 //    println(func1(1,2))
     

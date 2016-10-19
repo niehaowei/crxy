@@ -11,10 +11,10 @@ object Testarr {
     //数组定义[]中指定数组的元素类型  ()定义数组的长度
     val arr1 = new Array[Int](3)
     //下角标还是从0开始
-    arr1(0) = 9
-//    for (i <- arr1) {
-//      println(i)
-//    }
+    arr1.update(0, 9)
+    for (i <- arr1) {
+      println(i)
+    }
 
     //()中是数组的元素   也可以指定类型 Any类型属于公共类型
     val arr2 = Array(1, 2, 3, 4, 5)
@@ -43,7 +43,7 @@ object Testarr {
 //    arr5 += 8
 //    val arr6 = arr4.toArray
     
-    println(arr4)
+//    println(arr4)
     
     arr4 --= arr5
 //    for(i <- arr4){
