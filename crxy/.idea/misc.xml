@@ -27,12 +27,46 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="IdProvider" IDEtalkID="1567DAC2875075BF2D2D89DA154B365B" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/assembly/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/bagel/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/core/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/examples/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/external/flume-sink/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/external/flume/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/external/kafka-assembly/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/external/kafka/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/external/mqtt/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/external/twitter/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/external/zeromq/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/graphx/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/launcher/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/mllib/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/network/common/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/network/shuffle/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/network/yarn/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/repl/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/sql/catalyst/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/sql/core/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/sql/hive/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/streaming/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/tools/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/unsafe/pom.xml" />
+        <option value="D:/common_tool/develop_tool/spark/spark-1.4.1/yarn/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">

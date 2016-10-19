@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/assembly" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/bagel" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/core" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/examples" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/external/flume" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/external/flume-sink" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/external/kafka" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/external/kafka-assembly" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/external/mqtt" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/external/twitter" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/external/zeromq" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/graphx" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/launcher" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/mllib" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/network/common" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/network/shuffle" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/network/yarn" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/repl" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/sql/catalyst" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/sql/core" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/sql/hive" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/streaming" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/tools" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/unsafe" charset="UTF-8" />
+    <file url="file://D:/common_tool/develop_tool/spark/spark-1.4.1/yarn" charset="UTF-8" />
+  </component>
 </project>
