@@ -1,0 +1,22 @@
+Index: scalaTest/src/Testarr.scala
+===================================================================
+--- scalaTest/src/Testarr.scala	(revision 5d58d3d3c1df0e6c876a7fc1636be9bb9f82608c)
++++ scalaTest/src/crxytest/Testarr.scala	(revision )
+@@ -1,3 +1,5 @@
++package crxytest
++
+ 
+ import scala.beans.BeanProperty
+ import scala.collection.mutable.ArrayBuffer
+\ No newline at end of file
+Index: scalaTest/src/TestClass.scala
+===================================================================
+--- scalaTest/src/TestClass.scala	(revision 5d58d3d3c1df0e6c876a7fc1636be9bb9f82608c)
++++ scalaTest/src/crxytest/TestClass.scala	(revision )
+@@ -1,3 +1,5 @@
++package crxytest
++
+ import scala.beans.BeanProperty
+ 
+ /**
+\ No newline at end of file
