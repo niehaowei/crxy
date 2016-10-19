@@ -1,7 +1,7 @@
 package cn.crxy
 
 /**
- *
+ *元组
  */
 object TestTuple {
   def main(args: Array[String]) {
